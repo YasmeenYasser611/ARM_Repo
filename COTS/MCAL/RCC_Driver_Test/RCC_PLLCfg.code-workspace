@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/PlatformIO/Projects/RCC_PLLCfg"
+		},
+		{
+			"name": "RCC_Driver_Test",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "SYSTIC_driver",
+			"path": "../../SYSTIC_driver"
+		},
+		{
+			"name": "Workspace",
+			"path": "../.."
+		},
+		{
+			"name": "HShed_Driver_Build",
+			"path": "../../../../../Documents/PlatformIO/Projects/HShed_Driver_Build"
+		}
+	],
+	"settings": {}
+}
